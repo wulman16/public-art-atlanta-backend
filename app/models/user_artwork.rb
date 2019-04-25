@@ -7,8 +7,6 @@ class UserArtwork < ApplicationRecord
       id: self.id,
       user_id: self.user_id,
       artwork_id: self.artwork_id,
-      seen: self.seen,
-      favorite: self.favorite,
     }
   end
 
