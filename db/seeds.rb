@@ -1461,7 +1461,7 @@ artwork112 = Artwork.create(
   medium: "sculpture",
   owner: "City of Atlanta",
   profile: "Artist Robert Clements enlisted students from Atlanta’s Peyton Forest Elementary School (adjacent to the park) to design and paint 250 of the sculpture’s ceramic tiles.“Working with the children from Peyton Forest Elementary School on this project commissioned by the Office of Cultural Affairs to chronicle a woman not only important in her community but the nation as a whole was a privilege. My goal was to capture the story of Isabel Gates Webster and what she stood for so that her community could forever embrace her legacy,” said Clements. Robert Clements is an award-winning sculptor and writer. After teaching art at the University of Georgia for 25 years, Clements retired to produce art full time. His work has been exhibited and collected by some of the most notable museums and corporations in the United States.",
-  lat: 333.736484,
+  lat: 33.736484,
   lng: -84.477861,
   source: "http://www.ocaatlanta.com/public_art/yes-we-can/"
 )
@@ -1475,7 +1475,7 @@ artwork113 = Artwork.create(
   owner: "City of Atlanta",
   profile: "A gift from the artist, Yvonne Domenge and Chicago’s Millennium Park,  these three sculptures are intended to be viewed together as a group and were originally components of Interconnected, a major outdoor solo exhibition during 2010-2012 at Millennium Park in Chicago. In 2012, the artist, Yvonne Domenge, assisted by curators and directors of Millennium Park, donated each of the six public artworks to competing cities across the United States. Atlanta was one of the few cities awarded the Domenge artworks and now serves as the permanent home for Tree of Life and Kan, in Freedom Park. Currently on view at the corner of North Avenue and Oakdale Road. The tree of life is a symbol of the connection between the underworld, the sky, and the terrestrial world in pre-Columbian cultures. The tree symbolizes life’s energy, and the seeds scattered beneath represent the beauty and fragility of new life.",
   lat: 33.771026,
-  lng: 84.341750,
+  lng: -84.341750,
   source: "http://www.ocaatlanta.com/public_art/tree-of-life-and-kaan/"
 )
 
