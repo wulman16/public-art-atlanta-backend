@@ -3,7 +3,7 @@ class UserArtworksController < ApplicationController
 
   def index
     @user_artworks = UserArtwork.all
-    render json: @user_artworks.user_artwork_json, status: :ok
+    render json: @user_artworks, status: :ok
   end
 
   def show
@@ -38,7 +38,7 @@ class UserArtworksController < ApplicationController
   private
 
   def user_artwork_params
-    params.permit(:user_id, :artwork_id, :seen, :favorite)
+    params.permit(:user_id, :artwork_id)
   end
 
   def find_user_artwork
