@@ -348,19 +348,6 @@ artwork26 = Artwork.create(
   source: "http://www.ocaatlanta.com/public_art/ring-of-water/"
 )
 
-artwork27 = Artwork.create(
-  title: "No Goal is Too High if We Climb with Care and Confidence",
-  artist: "GSU Edgewood Sculpture Forum",
-  year: "1995",
-  image: nil,
-  medium: "sculpture",
-  owner: "City of Atlanta",
-  profile: "In 1973, Truett Cathy, founder of Chick-fil-A, established the Team Member Scholarship program to encourage his restaurant employees to further their education. It was the first fast food chain to offer this kind of program. In 1994, the company reached its $10 million scholarship milestone and to commemorate the event, commissioned the art and sculpture students of Georgia State University to design a sculpture which would reflect the goals and achievements of the Chick-fil-A scholarship program.",
-  lat: 33.755902,
-  lng: -84.388942,
-  source: "http://www.ocaatlanta.com/public_art/no-goal-is-too-high-if-we-climb-with-care-and-confidence/"
-)
-
 artwork28 = Artwork.create(
   title: "In Search of Awe",
   artist: "Eleanor Hand",
