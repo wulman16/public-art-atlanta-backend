@@ -1,4 +1,5 @@
 class UserArtworksController < ApplicationController
+  skip_before_action :authorize!
   before_action :find_user_artwork, only: [:show, :update, :destroy]
 
   def index

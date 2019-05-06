@@ -1,4 +1,5 @@
 class ArtworksController < ApplicationController
+  skip_before_action :authorize!
   before_action :find_artwork, only: [:show]
 
   def index
