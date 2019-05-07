@@ -1569,12 +1569,3 @@ artwork121 = Artwork.create(
   lng: -84.415929,
   source: "http://www.ocaatlanta.com/public_art/west-end-historic-walk/"
 )
-
-will = User.create(
-  name: "Will"
-)
-
-user_artwork1 = UserArtwork.create(
-  user_id: will.id,
-  artwork_id: artwork1.id
-)
