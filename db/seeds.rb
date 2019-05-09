@@ -287,7 +287,7 @@ artwork22 = Artwork.create(
   title: "Faces on the Wall",
   artist: "Willie Tarver",
   year: "1996",
-  image: "http://www.ocaatlanta.com/wp-content/uploads/2016/02/Faces-2.jpg",
+  image: "http://www.ocaatlanta.com/wp-content/uploads/2016/02/Faces-on-Wall-2-2.jpg",
   medium: "installation",
   owner: "City of Atlanta",
   profile: "Willer Tarver, a welder and self taught artist, was born in 1932 in Wadley, Georgia. As the son of a sharecropper, Tarver’s life was influenced by religion, farm life and slavery. These influences are reflected in his folk art sculptures and paintings.",
@@ -660,19 +660,6 @@ artwork51 = Artwork.create(
   source: "http://www.ocaatlanta.com/public_art/nine-banners-of-wisdom/"
 )
 
-artwork52 = Artwork.create(
-  title: "27 Torch Gate",
-  artist: "Harris Dimitropoulos",
-  year: "1996",
-  image: "http://www.ocaatlanta.com/wp-content/uploads/2013/06/Dimitropolous.jpg",
-  medium: "architectural",
-  owner: "City of Atlanta",
-  profile: "27 Torch Gate was constructed for the 1996 Olympics. This installation was designed by Harris Dimitropoulos, a professor in the School of Architecture at Georgia Tech. His creative interests explore issues of representation and aesthetics. Dimitropoulos received formal architecture and art education. His architectural and art work has been exhibited in Europe and the United States.",
-  lat: 33.771268,
-  lng: -84.390144,
-  source: "http://www.ocaatlanta.com/public_art/27-torch-gate/"
-)
-
 artwork53 = Artwork.create(
   title: "Urban Path",
   artist: "Curtis Patterson",
@@ -749,19 +736,6 @@ artwork58 = Artwork.create(
   lat: 33.736671,
   lng: -84.396475,
   source: "http://www.ocaatlanta.com/public_art/we-will-not-forget/"
-)
-
-artwork59 = Artwork.create(
-  title: "Reunion Place",
-  artist: "Marie T. Cochran and Anthony M. Bingham",
-  year: "1996",
-  image: "http://www.ocaatlanta.com/wp-content/uploads/2013/06/Reunion.jpg",
-  medium: "installation",
-  owner: "City of Atlanta",
-  profile: "Reunion Place was commissioned for the Olympic Games. It was created through a collaboration between artists Marie T. Cochran and Anthony Bingham and the Mechanicsville community. The piece features a small plaza with four ironwork poles at one end. Marie T. Cochran, artist and director of the Affrilachia Artist Project, was born and raised in Toccoa, GA in the foothills of the Appalachian Mountains. She received degrees from the University of Georgia (BFA) and the School of the Art Institute in Chicago (MFA). She received a post-graduate fellowship in museum education from the National Endowment of the Arts. Cochran has been a visiting art faculty member at educational institutions in Georgia, Maryland, New Jersey and North Carolina. Her research interests include visual literacy and ekphrastic encounters. She creates mixed media pieces, which are often grounded in community-based collaboration. Anthony Bingham currently lives and works in Birmingham, Alabama. He received his M.F.A. in Sculpture from Georgia State University in 2002. He also has an M.A. in Film and Community Media and a B.A. in Communications Arts.",
-  lat: 33.741533,
-  lng: -84.398321,
-  source: "http://www.ocaatlanta.com/public_art/reunion-place/"
 )
 
 artwork60 = Artwork.create(
@@ -846,7 +820,7 @@ artwork66 = Artwork.create(
   title: "The NPU 5-Seed Project",
   artist: "Lisa Tuttle",
   year: "2007",
-  image: "http://www.ocaatlanta.com/wp-content/uploads/2015/10/Detail.jpg",
+  image: "http://www.ocaatlanta.com/wp-content/uploads/2015/10/Tuttle2007c.jpg",
   medium: "installation",
   owner: "City of Atlanta",
   profile: "This mixed media collage commissioned for Dunbar Community Center is made up of various color blocks, representations of flora, and historical images from the community. The Seed Project is community-based public art and was created to highlight the local culture of Mechanicsville. Lisa Tuttle is an Atlanta based sculptor and photographer.",
@@ -1483,7 +1457,7 @@ artwork115 = Artwork.create(
   title: "Memorial, Carpets, Panels, and Books",
   artist: "Jim Hirschfield and Sonya Ishii",
   year: "1994",
-  image: "http://www.ocaatlanta.com/wp-content/uploads/2015/10/samspenc2.jpg",
+  image: "http://www.ocaatlanta.com/wp-content/uploads/2015/11/IMG_9316.jpg",
   medium: "sculpture",
   owner: "City of Atlanta",
   profile: "A conical bronze sculpture measuring at 6’8” in height and 17’ in diameter is the foundation for a coniferous tree, which grows out of the top of the sculpture. The base of the sculpture is made of granite. The piece was created by husband and wife duo, Jim Hirschfield and Sonya Ishii. Hirschfield and Ishii have worked collaboratively for over 30 years. They now reside in Chapel Hill, NC. A conical bronze sculpture measuring at 6’8” in height and 17’ in diameter is the foundation for a coniferous tree, which grows out of the top of the sculpture. The base of the sculpture is made of granite.",
@@ -1561,7 +1535,7 @@ artwork121 = Artwork.create(
   title: "West End Historic Walk",
   artist: "Steven Weitzman",
   year: "2013",
-  image: "http://www.ocaatlanta.com/wp-content/uploads/2015/10/samspenc2.jpg",
+  image: "https://www.creativedesignresolutions.com/wp-content/uploads/2019/03/IMG_5336-copy.jpg",
   medium: "mural",
   owner: "City of Atlanta",
   profile: "Maryland based artist, Steven Weitzman, was commissioned by the City of Atlanta Office of Cultural Affairs Public Art Program to create a Historic Walk in the West End Atlanta community. The artwalk, constructed of full-color FOTERA structural concrete murals and specialty pavers, is inserted into the north sidewalk on Ralph David Abernathy Boulevard between Lee and Lowery Streets. Stretching nearly the length of two football fields, the artwalk  tell the story of the West End community.",
